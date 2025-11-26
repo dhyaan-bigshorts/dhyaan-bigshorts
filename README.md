@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m Dhyaan Shah</h1>
 <p align="center">
-  🚀 CTO & Co-Founder @ <b>BigShorts</b> &nbsp;|&nbsp; 🥇 Gold Medalist Engineer &nbsp;|&nbsp; 🔧 Fullstack Innovator
+  🥇 Gold Medalist Engineer &nbsp;|&nbsp; 🔧 Fullstack Innovator
 </p>
 
 ---
