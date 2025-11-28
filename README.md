@@ -17,14 +17,14 @@
 
 <p align="center">
   <!-- Profile Details Card (commits, PRs, followers, etc.) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyaan-bigshorts&theme=dracula" alt="profile-details-card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyaan-dds08&theme=dracula" alt="profile-details-card" />
 </p>
 
 <p align="center">
   <!-- Streak + Contributions Summary -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhyaan-bigshorts&theme=dracula&hide_border=true" alt="github-streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhyaan-dds08&theme=dracula&hide_border=true" alt="github-streak" height="170" />
   <!-- Top Languages on GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaan-bigshorts&layout=compact&theme=dracula&hide_border=true" alt="github-top-langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaan-dds08&layout=compact&theme=dracula&hide_border=true" alt="github-top-langs" height="170" />
 </p>
 
 ---
