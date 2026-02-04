@@ -1,39 +1,126 @@
-<h1 align="center">Hi 👋, I’m Dhyaan Shah</h1>
-<p align="center">
-  🥇 Gold Medalist Engineer &nbsp;|&nbsp; 🔧 Fullstack Innovator
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=dhyaan%20shah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=gold%20medalist%20%7C%20fullstack%20engineer&descSize=16&descAlignY=51"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=fullstack+engineer+%7C+flutter+%2B+node.js+%2B+aws;learning+react+native+%2B+python+%2B+rust;gold+medalist+%7C+cgpa%3A+3.94+%2F+4.0+%F0%9F%A5%87)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,js,ts,swift,kotlin,java,mysql,redis,firebase,aws,vercel,figma" alt="tech-icons" />
-</p>
-
----
-
-## 📊 Stats & Insights
-
-<p align="center">
-  <!-- Profile Details Card (commits, PRs, followers, etc.) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhyaan-dds08&theme=dracula" alt="profile-details-card" />
-</p>
-
-<p align="center">
-  <!-- Streak + Contributions Summary -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhyaan-dds08&theme=dracula&hide_border=true" alt="github-streak" height="170" />
-  <!-- Top Languages on GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaan-dds08&layout=compact&theme=dracula&hide_border=true" alt="github-top-langs" height="170" />
-</p>
+### 👨‍💻 about me
+```typescript
+const dhyaan = {
+  title: "Gold Medalist Fullstack Engineer 🥇",
+  education: "B.Tech Computer Engineering (3.94/4.0)",
+  stack: ["Flutter", "Node.js", "TypeScript", "AWS"],
+  learning: ["React Native", "Python/LLMs", "Rust"],
+  building: "scalable fullstack systems",
+  location: "Surat, Gujarat 🇮🇳"
+};
+```
 
 ---
 
-## ⌛Coding Stats (WakaTime)
+### 🛠️ tech stack
 
-<p align="center">
-  <!-- Total coding time for the week -->
+<div align="center">
 
-  <!-- Language breakdown (compact view, top 6 langs) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhyaanbigshorts&theme=dracula&hide_border=true&layout=compact&langs_count=6" alt="wakatime-lang-breakdown" />
-</p>
+**mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+**backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**cloud & devops**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**currently learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+---
+
+### 📊 github stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhyaan-dds08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaan-dds08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com?user=dhyaan-dds08&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+
+</div>
+
+---
+
+### ⏱️ coding activity
+
+<div align="center">
+
+![coding activity](https://github-readme-stats.vercel.app/api/wakatime?username=dhyaanbigshorts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&layout=compact)
+
+</div>
+
+---
+
+### 🐍 contribution graph
+
+<div align="center">
+
+![snake gif](https://github.com/dhyaan-dds08/dhyaan-dds08/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 💬 connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyaan-shah-6220a31bb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyannshah@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhyaan-dds08&color=6366f1&style=for-the-badge&label=profile+views)
+
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
