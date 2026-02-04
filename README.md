@@ -99,7 +99,7 @@ const dhyaan = {
 
 <div align="center">
 
-![snake gif](https://github.com/dhyaan-dds08/dhyaan-dds08/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/dhyaan-dds08/dhyaan-dds08/output/github-snake-dark.svg)
 
 </div>
 
