@@ -18,8 +18,7 @@ const dhyaan = {
   title: "Gold Medalist Fullstack Engineer 🥇",
   stack: ["Flutter", "Node.js", "TypeScript", "AWS"],
   learning: ["React Native", "Python/LLMs", "Rust"],
-  building: "scalable fullstack systems",
-  location: "Surat, Gujarat 🇮🇳"
+  building: "scalable fullstack systems"
 };
 ```
 
