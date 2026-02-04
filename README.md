@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=fullstack+engineer+%7C+flutter+%2B+node.js+%2B+aws;learning+react+native+%2B+python+%2B+rust;gold+medalist+%7C+cgpa%3A+3.94+%2F+4.0+%F0%9F%A5%87)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=680&lines=fullstack+engineer+%7C+flutter+%2B+node.js+%2B+aws;learning+react+native+%2B+python+%2B+rust;gold+medalist+%F0%9F%A5%87)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,6 @@
 ```typescript
 const dhyaan = {
   title: "Gold Medalist Fullstack Engineer 🥇",
-  education: "B.Tech Computer Engineering (3.94/4.0)",
   stack: ["Flutter", "Node.js", "TypeScript", "AWS"],
   learning: ["React Native", "Python/LLMs", "Rust"],
   building: "scalable fullstack systems",
